@@ -1,7 +1,8 @@
 const DISABLED_PROPERTIES = [
   'draggable',
   'setData',
-  'supportPointer'
+  'supportPointer',
+  'fallbackOneDirection'
 ];
 
 
